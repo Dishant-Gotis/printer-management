@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "UniversalPrint.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/UniversalPrint.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversalPrint.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniversalPrint.Core/1.0.0": {
+      "type": "project",
+      "path": "../UniversalPrint.Core/UniversalPrint.Core.csproj",
+      "msbuildProject": "../UniversalPrint.Core/UniversalPrint.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "UniversalPrint.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GIT-REPOS\\printer-management\\src\\UniversalPrint.Printing\\UniversalPrint.Printing.csproj",
+      "projectName": "UniversalPrint.Printing",
+      "projectPath": "D:\\GIT-REPOS\\printer-management\\src\\UniversalPrint.Printing\\UniversalPrint.Printing.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\GIT-REPOS\\printer-management\\src\\UniversalPrint.Printing\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\GIT-REPOS\\printer-management\\src\\UniversalPrint.Core\\UniversalPrint.Core.csproj": {
+              "projectPath": "D:\\GIT-REPOS\\printer-management\\src\\UniversalPrint.Core\\UniversalPrint.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

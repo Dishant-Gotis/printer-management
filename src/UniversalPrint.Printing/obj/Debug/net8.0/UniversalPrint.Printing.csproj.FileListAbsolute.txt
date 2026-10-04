@@ -1,0 +1,15 @@
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\bin\Debug\net8.0\UniversalPrint.Printing.deps.json
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\bin\Debug\net8.0\UniversalPrint.Printing.dll
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\bin\Debug\net8.0\UniversalPrint.Printing.pdb
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\bin\Debug\net8.0\UniversalPrint.Core.dll
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\bin\Debug\net8.0\UniversalPrint.Core.pdb
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\UniversalPrint.Printing.csproj.AssemblyReference.cache
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\UniversalPrint.Printing.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\UniversalPrint.Printing.AssemblyInfoInputs.cache
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\UniversalPrint.Printing.AssemblyInfo.cs
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\UniversalPrint.Printing.csproj.CoreCompileInputs.cache
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\Universa.9C3D0A02.Up2Date
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\UniversalPrint.Printing.dll
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\refint\UniversalPrint.Printing.dll
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\UniversalPrint.Printing.pdb
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Printing\obj\Debug\net8.0\ref\UniversalPrint.Printing.dll

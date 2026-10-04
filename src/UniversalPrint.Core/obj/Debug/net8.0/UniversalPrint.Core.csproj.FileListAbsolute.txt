@@ -1,0 +1,11 @@
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\bin\Debug\net8.0\UniversalPrint.Core.deps.json
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\bin\Debug\net8.0\UniversalPrint.Core.dll
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\bin\Debug\net8.0\UniversalPrint.Core.pdb
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\obj\Debug\net8.0\UniversalPrint.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\obj\Debug\net8.0\UniversalPrint.Core.AssemblyInfoInputs.cache
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\obj\Debug\net8.0\UniversalPrint.Core.AssemblyInfo.cs
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\obj\Debug\net8.0\UniversalPrint.Core.csproj.CoreCompileInputs.cache
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\obj\Debug\net8.0\UniversalPrint.Core.dll
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\obj\Debug\net8.0\refint\UniversalPrint.Core.dll
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\obj\Debug\net8.0\UniversalPrint.Core.pdb
+D:\GIT-REPOS\printer-management\src\UniversalPrint.Core\obj\Debug\net8.0\ref\UniversalPrint.Core.dll
