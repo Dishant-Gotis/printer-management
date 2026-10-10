@@ -131,4 +131,23 @@ public partial class MainWindow : Window
             ? "Add at least one file before printing."
             : "Print pipeline will be connected after document conversion and merging are implemented.";
     }
+
+    private void GenerateInvoice_Click(object sender, RoutedEventArgs e)
+    {
+        if (_files.Count == 0)
+        {
+            StatusText.Text = "Add at least one file before generating an invoice.";
+            return;
+        }
+
+        var invoiceWindow = new InvoiceWindow(_files.ToArray())
+        {
+            Owner = this
+        };
+
+        if (invoiceWindow.ShowDialog() == true && invoiceWindow.GeneratedFilePath is not null)
+        {
+            StatusText.Text = $"Invoice saved: {invoiceWindow.GeneratedFilePath}";
+        }
+    }
 }
