@@ -204,6 +204,8 @@ Currently not implemented:
 
 The `Preview` and `Print all` buttons currently show status messages instead of processing or printing documents.
 
+Invoice PDF generation is available as a separate action. Because page counting and Windows printing are not implemented, users enter page quantity and pricing manually; invoices are not automatically issued after print submission yet.
+
 ## 6. Required MVP Features
 
 ### File management
@@ -492,6 +494,8 @@ Before completing the document engine, decide:
 [x] Initial build passes
 [x] Initial test passes
 [x] App launched for UI review
+[x] Invoice PDF generation and pricing validation
+[x] Invoice form for business/customer details and print pricing
 [ ] Implement PDF processing
 [x] Implement JPG/JPEG to PDF conversion
 [ ] Implement PNG to PDF conversion
@@ -507,6 +511,8 @@ Before completing the document engine, decide:
 [ ] Create installer
 [ ] Test installed release
 ```
+
+Invoice behavior and its current print-pipeline dependency are tracked in [Module 7](docs/modules/07-invoice-generation.md).
 
 ## 11. Immediate Next Task
 
